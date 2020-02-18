@@ -1,21 +1,21 @@
 {
-	"name": "laravelium/sitemap",
-	"description": "Laravelium Sitemap package for Laravel.",
-	"homepage": "https://gitlab.com/Laravelium",
-	"keywords": ["laravelium", "laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
+	"name": "jyarali/to-sitemap",
+	"description": "sitemap for to",
+	"homepage": "https://github.com/jyarali/to-sitemap",
+	"keywords": ["to-sitemap", "laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Roumen Damianoff",
-			"email": "roumen@damianoff.com",
+			"name": "Mehdi Kord",
+			"email": "info@mehdikord.ir",
 			"role": "Developer",
-			"homepage": "https://damianoff.com"
+			"homepage": "https://mehdikord.ir"
 		}
 	],
 	"support": {
-		"issues": "https://gitlab.com/Laravelium/Sitemap/issues",
+		"issues": "https://github.com/jyarali/to-sitemap/issues",
 		"source": "https://gitlab.com/Laravelium/Sitemap",
-		"wiki": "https://gitlab.com/Laravelium/Sitemap/wikis/home"
+		"wiki": "https://github.com/jyarali/to-sitemap/wikis/home"
 	},
 	"require": {
 		"php": ">=7.2",
